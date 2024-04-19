@@ -124,7 +124,8 @@ Contributions are what make the open source community such an amazing place to l
 
 <!-- CODE OF CONDUCT -->
 ## 6. Code of Conduct
-We want everyone who participates in Arcade Adventure to feel welcome and respected. To ensure that happens, we've established a code of conduct that outlines our expectations for behavior. You can read the full text of the code of conduct in the Code of Conduct file.
+We want everyone who participates in Arcade Adventure to feel welcome and respected. To ensure that happens, we've established a code of conduct that outlines our expectations for behavior. You can read the full text of the code of conduct in the [Code of Conduct](CODE_OF_CONDUCT.md) file.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUNDING -->
