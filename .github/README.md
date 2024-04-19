@@ -41,7 +41,7 @@ This blog introduces about Barcelona Football Club.
 
 You can see the demo here
 
-https://github.com/c0ff33sl4y3r/arcade-adventure/assets/62643594/78a47b08-a34d-4570-b24f-c024814965c5
+
 
 <p align="center">A demo run of this website </p>
 
@@ -81,7 +81,7 @@ This repository currently supports Window.
 1. Clone the repository to local computer
 
   ```bash
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/VANH1810/BarcelonaBlog.git
   ```
 2. Check the Python version
   ```bash
@@ -143,6 +143,8 @@ My project is released under the [MIT License](LICENSE.md). This means you're fr
 Template of Home CSS and HMTL files:
 * [html5up.net | @ajlkn] (https://html5up.net/)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- CONTACT -->
 ## 10. Contact
 
