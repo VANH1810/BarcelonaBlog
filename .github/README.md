@@ -94,7 +94,7 @@ This repository currently supports Window.
 4. Run server
 
   ``` bash
-   py mangage.py runserver
+   py manage.py runserver
    ```
 5. Use the Browser and access the address
   ``` ssh
