@@ -30,10 +30,6 @@ A blog write by [@VANH1810](https://github.com/VANH1810)
   </ol>
 </details>
 
-
-
-
-
 <!-- GENAERAL INFORMATION -->
 ## 1. General Information
 
